@@ -51,7 +51,7 @@ Check if PostgreSQL is already installed by running this command:
 psql
 ```
 
-If you entered PostgreSQL's Interactive Shell, you already have PostgreSQL installed. Enter \q to exit the shell.
+If you entered PostgreSQL's Interactive Shell, you already have PostgreSQL installed. Enter `\q` to exit the shell.
 
 If you already have PostgreSQL installed, note the version and inform an instructor if it's not at least version 10.
 
@@ -98,10 +98,10 @@ Django is a powerful web framework for building web applications using Python. W
 
 ### Creating a virtual environment
 
-Install pip (Python package installer) if you haven't already:
+Make sure that pip is installed (this package is automatically installed with Python):
 
 ```bash
-sudo easy_install pip
+pip --version
 ```
 
 Install Virtualenv using pip:
