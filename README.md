@@ -12,8 +12,8 @@ This module provides operating system specific guides for installing Python, Pos
 
 | Lesson                                                                                       | Video Time | Video | Skills              |
 | -------------------------------------------------------------------------------------------- | :--------: | :---: | ------------------- |
-| [macOS 13 Ventura and macOS 12 Monterey](./mac-os/README.md)                                 |     --     |  --   | tktk skills covered |
-| [Ubuntu and WSL](./windows-ubuntu/README.md)                                                 |     --     |  --   | tktk skills covered |
+| [macOS 13 Ventura and macOS 12 Monterey](./mac-os/README.md)                                 |     --     |  --   | Installation guide for macOS users |
+| [Windows 10, 11, and Ubuntu](./windows-ubuntu/README.md)                                     |     --     |  --   | Installation guide for Windows and Linux users |
 | **Total content**                                                                            |     --     |  --   |                     |
 
 ## References
