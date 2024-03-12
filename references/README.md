@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - References](./assets/hero.png)
+# ![Installfest- Python, Django, SQL - References](./assets/hero.png)
 
 ## Lesson references
 
