@@ -104,7 +104,7 @@ Make sure that pip is installed (this package is automatically installed with Py
 pip --version
 ```
 
-Install Virtualenv using pip:
+Install [virtualenv](https://virtualenv.pypa.io/en/latest/index.html) using pip:
 
 ```bash
 pip install virtualenv

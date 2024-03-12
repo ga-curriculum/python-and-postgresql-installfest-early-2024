@@ -186,7 +186,7 @@ Install pip (Python package installer):
 sudo apt install python3-pip
 ```
 
-Install Virtualenv using pip:
+Install [virtualenv](https://virtualenv.pypa.io/en/latest/index.html) using pip:
 
 ```bash
 sudo pip3 install virtualenv
