@@ -104,10 +104,10 @@ Make sure that pip is installed (this package is automatically installed with Py
 pip --version
 ```
 
-Install [virtualenv](https://virtualenv.pypa.io/en/latest/index.html) using pip:
+Install [pipenv](https://pypi.org/project/pipenv/) using pip:
 
 ```bash
-pip install virtualenv
+pip install --user pipenv
 ```
 
 Navigate to the directory where you want to create your project.
@@ -119,24 +119,30 @@ mkdir my_test_project
 cd my_test_project
 ```
 
-Create a virtual environment inside your project directory:
+Initialize a new virtual environment inside your project directory:
 
 ```bash
-virtualenv venv
+pipenv install django
 ```
 
-Activate the virtual environment:
+This command will create a new `Pipfile` and `Pipfile.lock` in your project directory, specifying Django as a dependency.
+
+Activate the pipenv shell:
 
 ```bash
-source venv/bin/activate
+pipenv shell
 ```
 
-You'll notice your terminal prompt changes to show the active environment.
+This will activate the virtual environment and change your terminal prompt to indicate that you are now working within the pipenv shell.
 
-Now you can install Django or any other dependencies you need within this environment using pip.
-
-To deactivate the virtual environment when you're done, simply type:
+Verify the installation:
 
 ```bash
-deactivate
+django-admin --version
+```
+
+When you're done working on your project, you can deactivate the pipenv shell by simply typing:
+
+```bash
+exit
 ```
