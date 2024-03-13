@@ -10,11 +10,11 @@ This module provides operating system specific guides for installing Python, Pos
 
 ## Content
 
-| Lesson                                                                                       | Video Time | Video | Skills              |
-| -------------------------------------------------------------------------------------------- | :--------: | :---: | ------------------- |
-| [macOS](./macos/README.md)                                 |     --     |  --   | Installation guide for macOS 13 Ventura and macOS 12 Monterey users |
-| [Windows and Ubuntu](./windows-ubuntu/README.md)                                     |     --     |  --   | Installation guide for Windows 10, 11, and Ubuntu users |
-| **Total content**                                                                            |     --     |  --   |                     |
+| Lesson                                            | Video Time | Video | Skills |
+| ------------------------------------------------- | :--------: | :---: | ------ |
+| [macOS](./macos/README.md)                        |     --     |  --   | Installation guide for macOS 13 Ventura and macOS 14 Sonoma users |
+| [Windows and Ubuntu](./windows-ubuntu/README.md)  |     --     |  --   | Installation guide for Windows 10, 11, and Ubuntu users |
+| **Total content**                                 |     --     |  --   |                     |
 
 ## References
 
