@@ -2,4 +2,5 @@
 
 ## Lesson references
 
-- [virtualenv](https://virtualenv.pypa.io/en/latest/index.html)
+- [Python Package Index (PyPI)](https://pypi.org/)
+- [Pipenv on PyPI](https://pypi.org/project/pipenv/)
