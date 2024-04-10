@@ -57,7 +57,7 @@ This command should output a version number ***starting*** with `Python 3.11`.
 which python3
 ```
 
-This command should output a file path ***ending*** with `/homebrew/bin/python3` or `/local/bin/python3`
+This command should output a file path ***ending*** with `/python@3.11/libexec/bin/python3`
 
 #### Next steps
 
