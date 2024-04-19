@@ -1,7 +1,5 @@
 # ![Python and PostgreSQL Installfest - Early 2024 - macOS](./assets/hero.png)
 
-tktk Hunter, this needs a hero
-
 ## What you need to begin
 
 - ***A device running macOS 14 Sonoma or macOS 13 Ventura.***

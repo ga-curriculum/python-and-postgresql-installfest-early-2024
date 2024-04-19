@@ -1,4 +1,4 @@
-# ![Python and PostgreSQL Installfest - Early 2024](../assets/tktk-hero.png)
+# ![Python and PostgreSQL Installfest - Early 2024](../assets/hero.png)
 
 ## About
 
