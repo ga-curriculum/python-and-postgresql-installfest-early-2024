@@ -115,6 +115,12 @@ Then, run the following command to create a new database named the same as the c
 createdb
 ```
 
+To exit the `psql` shell run:
+
+```bash
+\q
+```
+
 ## Installing Pipenv and a virtual environment demo using Django
 
 ### What is a virtual environment?
