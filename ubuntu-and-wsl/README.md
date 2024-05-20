@@ -186,7 +186,7 @@ DROP DATABASE apples;
 
 Enter `\l` again to confirm the database was dropped.
 
-## Installing Pipenv and a virtual environment demo using Django
+## Installing Pipenv to use virtual environments
 
 ### What is a virtual environment?
 
@@ -194,17 +194,13 @@ A virtual environment is a self-contained directory that you create using a tool
 
 It allows you to isolate your project's dependencies from other projects on your system, preventing conflicts such as different versions of the same library used in different projects and ensuring that your project runs consistently across different environments.
 
-### How do virtual environments work with Django?
-
-Django is a powerful web framework for building web applications using Python. When developing Django applications, you often need to install additional packages and libraries to extend its functionality.
-
 Virtual environments provide a clean and isolated environment where you can install these dependencies without affecting other projects.
 
-By creating a virtual environment for each Django project, you can:
+By creating a virtual environment for each project, you can:
 
-- Install Django and its dependencies locally within the environment.
+- Install dependencies locally within the environment.
 - Install additional packages required for your project, such as database drivers, middleware, or third-party packages.
-- Ensure your project remains compatible with specific versions of Django and other dependencies.
+- Ensure your project remains compatible with specific versions frameworks and other dependencies.
 - Easily manage and update dependencies without worrying about conflicts with other projects.
 
 ### Install Pipenv
@@ -258,9 +254,11 @@ pipenv --version
 
 If this doesn't return a version number, contact your instructor for assistance.
 
-### Creating a virtual environment (demo)
+## Creating a virtual environment (demo)
 
 You don't need to do this now, but below are details about how you create virtual environments that use Django. Feel free to skip this, just read through it, or run these commands!
+
+> 🧠 This does not install Django globally on your machine - it is a demo of what you will do for each Django project you create. You do not need to do any of the following to complete the installfest. If you have gotten this far, you've installed everything you need to install, this is just a demo so you can get practice.
 
 Navigate to the directory where you want to create your project - we'd recommend `~/code/ga/lectures`.
 

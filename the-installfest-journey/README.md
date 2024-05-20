@@ -1,6 +1,6 @@
 # ![Installfest - Python and PostgreSQL - Early 2024 - The Installfest Journey](./assets/hero.png)
 
-It's time for a round of installfest with Python, Postgres, and Django!
+It's time for a round of installfest with Python, and PostgreSQL!
 
 To help you through the installfest process, we've included this handy guide that walks you through the individual steps so that you can be sure you're not missing anything along the way. Follow the process outlined below to guide you through this process.
 
@@ -15,9 +15,8 @@ The installfest content is found within these OS-specific guides that will walk 
 
 The installfest resources in this module will guide you through installing or configuring the following applications, **regardless of your operating system**:
 
-- Python 3.12
+- Python 3.11
 - PostgreSQL
-- Django
 
 ## 2. Additional installfest material provided by your instructor
 
