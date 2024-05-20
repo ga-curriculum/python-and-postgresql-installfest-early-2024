@@ -1,4 +1,4 @@
-# ![Installfest- Python, Django, SQL - References](./assets/hero.png)
+# ![Python and PostgreSQL Installfest - Early 2024 - References](./assets/hero.png)
 
 ## Lesson references
 
