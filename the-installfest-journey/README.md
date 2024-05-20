@@ -17,6 +17,7 @@ The installfest resources in this module will guide you through installing or co
 
 - Python 3.11
 - PostgreSQL
+- Pipenv
 
 ## 2. Additional installfest material provided by your instructor
 
