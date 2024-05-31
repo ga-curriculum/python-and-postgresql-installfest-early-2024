@@ -55,13 +55,11 @@ This command should output a version number ***starting*** with `Python 3.11`.
 which python3
 ```
 
-This command should output a file path ***ending*** with `/python@3.11/libexec/bin/python3`
+This command should output a file path ***ending*** with `/python@3.11/libexec/bin/python3`.
 
 #### Next steps
 
-Continue to the **PostgreSQL** section below if you don't have any errors or discrepancies.
-
-If you have errors, reach out to your instructor for assistance.
+Continue to the **PostgreSQL** section below if you don't have any errors or discrepancies. Check out the **Handling errors** section if you ran into any problems problems.
 
 ### Handling errors 💔
 
@@ -82,6 +80,26 @@ xcode-select --install
 ```
 
 Retry the installation after running this command and following the prompts.
+
+#### Wrong version number output by `which python`
+
+If the `which python` command outputs a file path ***ending*** with `/libexec/bin/python3` but is preceeded by a different version of python (for example: `/python@3.12/libexec/bin/python3` or `/python@3.10/libexec/bin/python3`) then you have already installed Python using Homebrew in the past and Homebrew is using that previous installation as the default version that it tracks.
+
+To resolve this, open your `~/.zshrc` file in VS Code by running this command in your terminal:
+
+```bash
+code ~/.zshrc
+```
+
+At the end of the file you should see a line of text reading something like: `export PATH="/opt/homebrew/opt/python@X.XX/libexec/bin:$PATH"` where `python@X.XX` is the version of python Homebrew is tracking (for example `python@3.12` or `python@3.10`). Change ***only*** the version number here - it should be `python@3.11`. ***Do not modify any of the other text on this line, only the version number.***
+
+Ensure the file is saved, then close the `~/.zshrc` file. Quit your Terminal application entirely. Start a new terminal session. Run this command:
+
+```bash
+which python3
+```
+
+It should output a file path ***ending*** with `/python@3.11/libexec/bin/python3`.
 
 #### Other errors
 
@@ -115,11 +133,13 @@ Then, run the following command to create a new database named the same as the c
 createdb
 ```
 
-To exit the `psql` shell run:
+You may get an error after running this command, see the **Handling errors** section for more details.
 
-```bash
-\q
-```
+### Handling errors 💔
+
+#### `createdb` error
+
+You may see a message that says `createdb: error: database creation failed: ERROR: database "your-username" already exists`. That is fine though, as long as your actual username appears in quotes in place of `your-username` then you won't encounter any future errors.
 
 ## Installing Pipenv to use virtual environments
 
