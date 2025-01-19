@@ -1,0 +1,25 @@
+import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/static/v2/pkl/template.pkl" as Template
+
+// Add microlessons here, in the order they should be delivered
+
+theInstallfestJourney = new Template.Microlesson {
+  friendlyName = "The Installfest Journey"
+  dirName = "the-installfest-journey"
+  type = "Content"
+  videoUrl = ""
+}
+
+macos = new Template.Microlesson {
+  friendlyName = "macOS"
+  dirName = "macos"
+  type = "Content"
+  videoUrl = ""
+}
+
+ubuntuAndWsl = new Template.Microlesson {
+  friendlyName = "Ubuntu and WSL"
+  dirName = "ubuntu-and-wsl"
+  type = "Content"
+  videoUrl = ""
+}
+

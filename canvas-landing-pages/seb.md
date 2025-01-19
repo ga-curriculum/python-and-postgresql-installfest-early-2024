@@ -1,4 +1,7 @@
-# ![Python and PostgreSQL Installfest - Early 2024](../assets/hero.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Python and PostgreSQL Installfest - Early 2024</span>
+</h1>
 
 ## About
 

@@ -1,4 +1,7 @@
-# ![Installfest - Python and PostgreSQL - Early 2024 - The Installfest Journey](./assets/hero.png)
+<h1>
+  <span class="headline">Python and PostgreSQL Installfest - Early 2024</span>
+  <span class="subhead">The Installfest Journey</span>
+</h1>
 
 It's time for a round of installfest with Python, and PostgreSQL!
 
