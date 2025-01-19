@@ -27,8 +27,8 @@ This module provides operating system specific guides for installing Python, Pos
 
 ### Course landing pages
 
-- [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/installfest-python-django-sql-early-2024/canvas-landing-pages/seb.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/installfest-python-django-sql-early-2024/canvas-landing-pages/fallback.html)
+- [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/python-and-postgresql-installfest-early-2024/canvas-landing-pages/seb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/python-and-postgresql-installfest-early-2024/canvas-landing-pages/fallback.html)
 
 ### Resources
 

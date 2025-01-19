@@ -12,7 +12,7 @@ repo {
   // This name is shown in the header nav to navigate users home
   friendlyName = "Python and PostgreSQL Installfest - Early 2024"
   // This must match the repo name as it appears on GitHub exactly
-  name = "installfest-python-django-sql-early-2024"
+  name = "python-and-postgresql-installfest-early-2024"
   type = "Lesson"
 }
 
