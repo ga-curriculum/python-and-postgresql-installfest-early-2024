@@ -1,4 +1,7 @@
-# ![Python and PostgreSQL Installfest - Early 2024 - References](./assets/hero.png)
+<h1>
+  <span class="headline">Python and PostgreSQL Installfest - Early 2024</span>
+  <span class="subhead">References</span>
+</h1>
 
 ## Lesson references
 

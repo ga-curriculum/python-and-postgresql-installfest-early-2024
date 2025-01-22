@@ -1,12 +1,11 @@
-# ![Python and PostgreSQL Installfest - Early 2024](./assets/hero.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Python and PostgreSQL Installfest - Early 2024</span>
+</h1>
 
 ## About
 
 This module provides operating system specific guides for installing Python, PostgreSQL, and Pipenv.
-
-## Prerequisites
-
-- None
 
 ## Content
 
@@ -20,7 +19,18 @@ This module provides operating system specific guides for installing Python, Pos
 
 📖 [Reference Materials](./references/README.md)
 
-## Internal resources
+## Internal
+
+### Prerequisites
+
+- None
+
+### Course landing pages
+
+- [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/python-and-postgresql-installfest-early-2024/canvas-landing-pages/seb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/python-and-postgresql-installfest-early-2024/canvas-landing-pages/fallback.html)
+
+### Resources
 
 ✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
 
@@ -30,4 +40,4 @@ This module provides operating system specific guides for installing Python, Pos
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/blob/main/module-feedback.md)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**

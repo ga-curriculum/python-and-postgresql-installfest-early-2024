@@ -1,4 +1,7 @@
-# ![Python and PostgreSQL Installfest - Early 2024 - Ubuntu and WSL](./assets/hero.png)
+<h1>
+  <span class="headline">Python and PostgreSQL Installfest - Early 2024</span>
+  <span class="subhead">Ubuntu and WSL</span>
+</h1>
 
 ## What you need to begin *(you must read this, do not skip this, this is important)*
 

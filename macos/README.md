@@ -1,4 +1,7 @@
-# ![Python and PostgreSQL Installfest - Early 2024 - macOS](./assets/hero.png)
+<h1>
+  <span class="headline">Python and PostgreSQL Installfest - Early 2024</span>
+  <span class="subhead">macOS</span>
+</h1>
 
 ## What you need to begin
 
