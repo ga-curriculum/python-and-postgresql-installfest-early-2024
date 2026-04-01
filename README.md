@@ -27,8 +27,8 @@ This module provides operating system specific guides for installing Python, Pos
 
 ### Course landing pages
 
-- [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/python-and-postgresql-installfest-early-2024/canvas-landing-pages/seb.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/python-and-postgresql-installfest-early-2024/canvas-landing-pages/fallback.html)
+- [SEB - Software Engineering Bootcamp](https://ga-curriculum.github.io/python-and-postgresql-installfest-early-2024/canvas-landing-pages/seb.html)
+- [Fallback](https://ga-curriculum.github.io/python-and-postgresql-installfest-early-2024/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -40,4 +40,4 @@ This module provides operating system specific guides for installing Python, Pos
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
